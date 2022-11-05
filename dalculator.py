@@ -1,4 +1,3 @@
-"""Simple calculator app using tkinter"""
 
 import tkinter as tk
 
